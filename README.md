@@ -1,7 +1,6 @@
 # Ola! Eu sou o Gabriel Lima Degam  
 
 -📖Estudando Linguagens de programaçao 
--📖Estudando Banco de Dados 
 -✍Cursando Análise e Desenvolvimento de sistemas 
 
 <div align="center">
