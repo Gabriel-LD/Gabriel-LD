@@ -1,7 +1,7 @@
 # Ola! Eu sou o Gabriel Lima Degam  
 
 -📖Estudando Linguagens de programaçao 
--✍Cursando Análise e Desenvolvimento de sistemas 
+-✍Cursando Ciencia da Computacao
 
 <div align="center">
   <a href="https://github.com/Gabriel Lima Degam">
